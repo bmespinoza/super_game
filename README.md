@@ -16,3 +16,4 @@ Decisiones:
 - En el archivo de mailing se encuentra lo necesario para enviar un mail con un template de html. El fightManager y Game tienen variables que almacenan el resumen de la pelea y el resumen del juego, en el se ira escribiendo la presentación de los equipos, el round de pelea y sus jugadores, el ganador del round y finalmente el equipo ganador.
 - Se creo un archivo de constantes para manipularlas facilmente
 - Además se considero el uso de un .env file para el uso de las apis
+- Para correr el programa se puede usar de referencia el main.py
